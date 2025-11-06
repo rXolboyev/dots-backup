@@ -1,0 +1,11 @@
+NAME="BlackArch Linux"
+PRETTY_NAME="BlackArch Linux"
+ID=blackarch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;200;0;0"
+HOME_URL="https://blackarch.org/"
+DOCUMENTATION_URL="https://blackarch.org/guide.html"
+SUPPORT_URL="https://blackarch.org/contact.html"
+BUG_REPORT_URL="https://github.com/BlackArch/blackarch/issues"
+PRIVACY_POLICY_URL="https://blackarch.org/privacy.html"
+LOGO=blackarch-logo
